@@ -13,7 +13,7 @@ A passionate **Data Science & Machine Learning** enthusiast with a strong founda
 When I’m not coding, you’ll find me immersed in gaming—where problem-solving meets creativity!  
 
 ## 💼 Seeking Opportunities  
-Looking for **Internship & Full-time roles** in **Data Science, Software Development, and Cloud Engineering**.  
+Looking for **Contract & Full-time roles** in **Data Science, Software Development, and Cloud Engineering**.  
 
 ## 📌 Let’s Connect & Collaborate!  
 🔗 **GitHub**: [JaswanthRamN](https://github.com/JaswanthRamN)  
